@@ -1,0 +1,5 @@
+Debugging is the process of detecting and removing existing and potential errors (also called ‘bugs’) in a code that can cause it to behave unexpectedly.
+When various subsystems or modules are tightly coupled, debugging becomes harder as any change in one module may cause more bugs to appear in another. 
+
+Sometimes it takes more time to debug a program than to code it.
+
